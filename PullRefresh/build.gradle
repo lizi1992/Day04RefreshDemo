@@ -7,7 +7,7 @@ android {
     defaultConfig {
         minSdkVersion 4
         targetSdkVersion 4
-    }
+}
 
     buildTypes {
         release {
